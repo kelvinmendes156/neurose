@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: comic sans ms;   
+}
+
+p {
+    margin-bottom: -1.5%;
+    font-size:125%   
+}
+
+p2 {
+    font-size: 75%;
+}
+
+a {
+    font-size: 75%;
+    color: black;
+}
+
+div {
+display: flex;
+text-align: center;
+
+
+}
